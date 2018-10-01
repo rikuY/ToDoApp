@@ -8,6 +8,7 @@
 </p>
 
 <table class="table table-hover todo-table">
+    <h2>あなたの予定を入力してください</h2>
     <thead>
         <tr>
             <th>やること</th>
