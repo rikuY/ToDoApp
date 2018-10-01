@@ -8,6 +8,7 @@
 </p>
 
 <table class="table table-hover todo-table">
+    <h1>ようこそ、これはTODOアプリです</h1>
     <thead>
         <tr>
             <th>やること</th>
