@@ -13,8 +13,8 @@
             <th>やること</th>
             <th>作成日時</th>
             <th>更新日時</th>
-            <th></th>
-            <th></th>
+            <th>削除</th>
+            <th>更新</th>
         </tr>
     </thead>
     <tbody>
